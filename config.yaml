@@ -1,0 +1,8 @@
+
+hosts:
+ - host1
+ - host2
+port: 22
+user: user
+pass: pass
+alt: pass2
